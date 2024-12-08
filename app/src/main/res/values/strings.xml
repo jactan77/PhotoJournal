@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Button">Hello</string>
+    <string name="textField">Welcome my user</string>
+    <string name="camera">Camera</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="notes">Notes</string>
+    <string name="delete_image">Delete image</string>
+    <string name="write_your_notes_here">Write your notes here...</string>
+    <string name="selected_image">Selected image</string>
+
+</resources>
